@@ -1,0 +1,23 @@
+# NetBeans specific #
+nbproject/private/
+build/
+nbbuild/
+dist/
+logs/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+target/
+.idea/
+out/
+log/
+venv/
+out/artifacts/hy463_fairness_trec_2020_jar/hy463-fairness-trec-2020.jar 
+# Class Files #
+*.class
+
+
+# Package Files #
+*.war
+*.ear
+
